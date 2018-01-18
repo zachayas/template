@@ -14,7 +14,7 @@ summary: My team developed a java based game about christmas for ICS 111.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image large" src="../images/explosive christmas.PNG">
+  <img class="ui image" src="../images/explosive christmas.PNG" width="100">
 </div>
 
 
