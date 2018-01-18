@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/explosive christmas.PNG
 title: ICS 111 Project
-permalink: projects/ICS111Project
+permalink: projects/ics111project
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-05
 labels:
