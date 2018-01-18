@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/explosive_christmas.PNG
+image: images/explosive_christmas.png
 title: ICS 111 Project
 permalink: projects/ics111project
 # All dates must be YYYY-MM-DD format!
