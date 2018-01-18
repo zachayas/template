@@ -13,7 +13,7 @@ labels:
 summary: My team developed a java based game about christmas for ICS 111.
 ---
 
-<div class="ui small rounded images">
+<div class="ui images">
   <img class="ui image" src="../images/explosive christmas.PNG">
 </div>
 
