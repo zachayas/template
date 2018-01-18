@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/explosive christmas.PNG
+title: ICS 111 Project
+permalink: projects/ICS111Project
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-12-05
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - ICS 111
+  - Christmas
+  - Java
+summary: My team developed a java based game about christmas for ICS 111.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/explosive christmas.PNG">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
