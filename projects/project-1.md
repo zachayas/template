@@ -17,6 +17,7 @@ summary: My team developed a java based game about christmas for ICS 111.
   <img class="ui image" src="../images/explosive christmas.PNG" width="100">
 </div>
 
+This project our team called "Explosive Christmas" was a Java based game for ICS 111. 
 
 
 
