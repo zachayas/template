@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/rock-paper-scissors.png
-title: Cotton
-permalink: projects/cotton
+title: R.P.S. Simulator
+permalink: projects/rock-paper-scissors
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-09-27
 labels:
   - C
   - Unix
-summary: A text adventure game I developed for ICS 313.
+summary: A rock paper scissors simulator for ICS 212.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
