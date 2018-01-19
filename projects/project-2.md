@@ -24,4 +24,4 @@ summary: A film that I directed and edited in High School.
  
  This was the most fun project I did in High School and even if it's not all that fancy I felt it turned out to be the better than most of the other videos. Some with students that were in the video making club. I've hope one day I could direct a project for something big as I felt I did a good job at handiling situations in a short amount of time.
  
-Video Source: <a href="https://youtu.be/HgFdotz7wJk"><i class="large youtube icon"></i>theVacay/vacay</a>
+Video Source: <a href="https://youtu.be/HgFdotz7wJk"><i class="large youtube icon"></i>Duke's Revenge</a>
