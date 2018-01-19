@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/word.png
+image: images/word.jpeg
 title: Letter Counter
 permalink: projects/word
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A letter counter for texts, for ICS 212.
 ---
 
-<img class="ui image" src="/images/rock-paper-scissors.png">
+<img class="ui image" src="/images/word1.jpeg">
 
 This was 
 
