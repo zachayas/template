@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium circular image" src="/images/biology.png">
+<img class="ui image" src="/images/biology.png">
 
 When I was growing up, I was never sure what I wanted to do. I've always thought about doing marine biology because fish were my favorite animals to observe and I loved biology. Sounds weird but that's what I wanted to do and I thought I would enjoy it, I even took up AP Bio in High School and pass with a 4 on the AP exam. On the other hand, I also loved video games but I never felt computer programming would be something I would enjoy and even making video games didn't seem financially stable (neither is marine biology).
 
