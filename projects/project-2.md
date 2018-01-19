@@ -13,7 +13,7 @@ labels:
 summary: A film that I directed and edited in High School.
 ---
 
-<img class="ui image" src="/images/duke1.png">
+<img class="ui image" src="/images/duke1.PNG">
  This was a project I had to do with a group 6 to recreate Shakespeare's classic, Hamlet. It is the same except set in modern time and the characters are local Hawaiian surfers. We filmed all of this in just two days before it was due. I had to take charge and plan everything (meet up) as well as direct and edit everything. I also had to act as well and I played both the main villain and the brother (if you didn't read Hamlet, the king is the villain and his brother was the previous king). I learned a lot about how to direct as well as editing such a long video as the video is approx. 12 mins.
  
  
