@@ -7,8 +7,8 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
+  - C
+  - Unix
 summary: A text adventure game I developed for ICS 313.
 ---
 
