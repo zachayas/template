@@ -26,6 +26,6 @@ As the team leader I communicated often since I was in charge of the design of t
 
 Another issue was one of my team member was not very communicative with the rest of us. He wasn't being very productive and he wouldn't try to figure out issue on his own if we couldn't help him. How I got around this was to meet up with him and work on the project with him and show how to search for a solution to his problems. He was able to finish his part before the due date which was very close. 
 
-Although we had these two issues with eachother, I felt that this project helped me become more open minded to my team members and improve my skills with helping others in my group.
+Although we had issues with eachother, I felt that this project helped me become more open minded to my team members and improve my skills with helping others in my group.
 
 
