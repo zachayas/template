@@ -63,22 +63,26 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 10"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-0",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.27",
+      "courses": [ 
+          "HWST 170",
+          "LING 102",
+          "ENG 190",
+          "ICS 314",
+          "ICS 321"
       ]
     }
   ],
