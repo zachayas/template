@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript Reflection #1
+title: Jumpstarting Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
