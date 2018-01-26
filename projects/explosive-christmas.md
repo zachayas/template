@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/explosive_christmas.png
 title: Explosive Chirstmas Game
-permalink: projects/ics111project
+permalink: projects/explosive-christmas
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-05
 labels:
