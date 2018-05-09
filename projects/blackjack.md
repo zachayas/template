@@ -1,18 +1,19 @@
 ---
 layout: project
 type: project
-image: images/word.jpg
-title: Letter Counter
-permalink: projects/word
+image: images/blackjack/back_cards.png
+title: Blackjack 21
+permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
-date: 2017-10-03
+date: 2018-5-01
 labels:
-  - C
-  - Unix
-summary: A letter counter for texts, for ICS 212.
+  - Java
+  - Oracle
+  - SQL
+summary: Recreation of Blackjack 21
 ---
 
-<img class="ui medium image" src="/images/word1.jpg">
+<img class="ui medium image" src="/images/blackjack/landing.PNG">
 
 This was my first time working with file input in C and Unix. I had to take a text file or direct input and parse it then count how many times letters appear in the text. The issue with this was having to parse chars from strings with spaces and punctuation. 
 
@@ -22,7 +23,7 @@ I then created two more arrays to check if char parsed was valid by comparing th
 What I learned from this was to smetimes just brute force your way into the solution, my original method was more efficient but it didn't work in all situations while the brute force method of validating every letter works in any condiitons. This helped me to work faster since copying and pasting in Unix messes with the format, so just typing faster is better than copy and paste. 
 
 
-<a href="https://github.com/zachayas/word-counter.git"><i class="large github icon"></i>Word Counter</a>
+<a href="https://github.com/zachayas/blackjack"><i class="large github icon"></i>Blackjack</a>
 
 
 
