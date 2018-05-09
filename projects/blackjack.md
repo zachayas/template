@@ -13,7 +13,7 @@ labels:
 summary: A recreation of blackjack 21.
 ---
 
-<img class="ui medium image" src="/images/word1.jpg">
+<img class="ui medium image" src="/images/blackjack/landing.PNG">
 
 This was my first time working with file input in C and Unix. I had to take a text file or direct input and parse it then count how many times letters appear in the text. The issue with this was having to parse chars from strings with spaces and punctuation. 
 
