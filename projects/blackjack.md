@@ -21,6 +21,3 @@ What I learned from this was to smetimes just brute force your way into the solu
 
 
 <a href=""><i class="large github icon"></i>Blackjack</a>
-
-
-
