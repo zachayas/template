@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Software Development",
       "keywords": [
       ]
     }
@@ -55,7 +55,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "SQL",
+        "React",
+        "Git",
+        "Meteor"
       ]
     },
     {
