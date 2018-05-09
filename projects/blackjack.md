@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/word.jpg
-title: Letter Counter
-permalink: projects/word
+title: Blackjack 21
+permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
-date: 2017-10-03
+date: 2018-05-01
 labels:
 - C
 - Unix
