@@ -12,9 +12,6 @@ labels:
   - SQL
 summary: Recreation of Blackjack 21
 ---
-
-<img class="ui medium image" src="/images/blackjack/landing.PNG">
-
 This was my first time working with file input in C and Unix. I had to take a text file or direct input and parse it then count how many times letters appear in the text. The issue with this was having to parse chars from strings with spaces and punctuation. 
 
 How I solved this was one array to keep tally. Then whenever the program parse a char, it would convert the letter into a number to represent the index (e.g a = 1, b = 2, etc.) then increment the tally array at the letters index, then print. This worked for small sentences but txt files would parse it incorrectly (reads the space or periods). 
