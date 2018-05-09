@@ -7,9 +7,10 @@ permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
-- C
-- Unix
-summary: A letter counter for texts, for ICS 212.
+- Java
+- Oracle
+- SQL
+summary: A recreation of blackjack 21.
 ---
 
 <img class="ui medium image" src="/images/word1.jpg">
