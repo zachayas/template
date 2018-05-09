@@ -20,4 +20,4 @@ I then created two more arrays to check if char parsed was valid by comparing th
 What I learned from this was to smetimes just brute force your way into the solution, my original method was more efficient but it didn't work in all situations while the brute force method of validating every letter works in any condiitons. This helped me to work faster since copying and pasting in Unix messes with the format, so just typing faster is better than copy and paste. 
 
 
-<a href=""><i class="large github icon"></i>Blackjack</a>
+<a href="https://github.com/zachayas/word-counter.git"><i class="large github icon"></i>Blackjack</a>
