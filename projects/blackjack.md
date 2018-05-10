@@ -17,7 +17,7 @@ summary: A recreation of blackjack 21.
 When I turned 21, my family wanted to take a trip to Vegas to celebrate. I thought about the game blackjack 21 and was working on making a project utilizing a database. Then it finally happened, I decided to recreate blackjack 21 using Java's Oracle Database 11g. At the top is the landing page, it is not the prettiest layout, but it is satisfactory. The landing page will show how to play and the rules to the game blackjack, if the player has never played before. There is a box showing the money playing start with or money from previous rounds and the play button.
 <div class="ui medium images">
 <img src="/images/blackjack/board.PNG">
-<img src="/images/blackjack/hit.PNG">
+<img src="/images/blackjack/hit1.PNG">
 </div>
 This is the board, as said before it is lackluster but simple. It shows a card the dealer has dealt to get an idea of the value the dealer holds. There are 5 “Hit” buttons that player press to “Hit” or pick up a card. A player has only 5 chances to “Hit”, then the player can hit the “Deal” button. The “Deal” button will determine if the player won, lost, or push. The result is displayed into the data table and will either reward or take the players money.
 
