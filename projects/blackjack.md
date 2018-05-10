@@ -14,12 +14,14 @@ summary: A recreation of blackjack 21.
 ---
 
 <img class="ui big image" src="/images/blackjack/landing.PNG">
+When I turned 21, my family wanted to take a trip to Vegas to celebrate. I thought about the game blackjack 21 and was working on making a project utilizing a database. Then it finally happened, I decided to recreate blackjack 21 using Java's Oracle Database 11g. At the top is the landing page, it is not the prettiest layout, but it is satisfactory. The landing page will show how to play and the rules to the game blackjack, if the player has never played before. There is a box showing the money playing start with or money from previous rounds and the play button.
+<div class="ui medium images">
+<img src="/images/blackjack/board.PNG">
+<img src="/images/blackjack/hit.PNG">
+</div>
+This is the board, as said before it is lackluster but simple. It shows a card the dealer has dealt to get an idea of the value the dealer holds. There are 5 “Hit” buttons that player press to “Hit” or pick up a card. A player has only 5 chances to “Hit”, then the player can hit the “Deal” button. The “Deal” button will determine if the player won, lost, or push. The result is displayed into the data table and will either reward or take the players money.
 
-This was my first time working with file input in C and Unix. I had to take a text file or direct input and parse it then count how many times letters appear in the text. The issue with this was having to parse chars from strings with spaces and punctuation. 
+This is pretty much it nothing special, but I did learn a lot from it.  I try to finish this before I left for Vegas, and even setting deadlines for myself is very challenging. Unlike school deadline, this is my own will to work on it. A method I used to deal with this is by spending a couple hours, then taking a 15 minutes break. This is a standard practice, but the issue is at home, there are millions of distractions. The only way is to just do it, stop messing around and do it, like Nike. I developed an ability to just do it, if needed. I can still be lazy but that does not mean I can not work hard if I have too. There was not much else that I have really learn but finishing self-made deadlines is a good one.
 
-How I solved this was one array to keep tally. Then whenever the program parse a char, it would convert the letter into a number to represent the index (e.g a = 1, b = 2, etc.) then increment the tally array at the letters index, then print. This worked for small sentences but txt files would parse it incorrectly (reads the space or periods). 
-I then created two more arrays to check if char parsed was valid by comparing the char with the actual letter for both upper and lower case. If it was valid then we convert and increment the tally. 
 
-What I learned from this was to smetimes just brute force your way into the solution, my original method was more efficient but it didn't work in all situations while the brute force method of validating every letter works in any condiitons. This helped me to work faster since copying and pasting in Unix messes with the format, so just typing faster is better than copy and paste. 
-
-<a href="https://github.com/zachayas/word-counter.git"><i class="large github icon"></i>Word Counter</a>
+<a href="https://github.com/zachayas/blackjack"><i class="large github icon"></i>Blackjack</a>
