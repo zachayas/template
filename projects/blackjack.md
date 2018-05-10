@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/back_cards.png
+image: images/blackjack/back_cards.png
 title: Blackjack 21
 permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
