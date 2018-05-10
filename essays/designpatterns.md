@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Designing Factories
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-25
+date: 2018-05-01
 labels:
   - Computer Science
   - Design Patterns
